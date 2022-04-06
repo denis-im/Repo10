@@ -5,8 +5,8 @@ var lion = {
   tails: 1
 }
 
-function myFunction(param, value) {
-  lion[param] = value;
+function myFunction(prop, value) {
+  lion[prop] = value;
   return lion;
 }
 
