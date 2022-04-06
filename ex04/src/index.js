@@ -1,6 +1,6 @@
 // Only change code below this line
 var players = {
-  7: "Muhamed besic",
+  7: "Muhamed Besic",
   10: "Miralem Pjanic",
   11: "Edin Dzeko"
 }
